@@ -20,7 +20,7 @@ Unit тесты с использованием фреймворка JUnit. <br>
 1. Склонируй репозиторий:
 
    ```bash
-   git clone https://github.com/Koloksay/QA-java-diplom-1
+   git clone https://github.com/Koloksay/diplom-1
    
 2. Перейди в каталог проекта:
 
